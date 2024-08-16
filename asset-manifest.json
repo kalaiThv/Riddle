@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Riddle/static/css/main.5aa14fc1.css",
+    "main.js": "/Riddle/static/js/main.adb8a982.js",
+    "static/js/453.2165ce42.chunk.js": "/Riddle/static/js/453.2165ce42.chunk.js",
+    "static/media/jk.jpg": "/Riddle/static/media/jk.79e73dfd44b7d1bb504c.jpg",
+    "index.html": "/Riddle/index.html",
+    "main.5aa14fc1.css.map": "/Riddle/static/css/main.5aa14fc1.css.map",
+    "main.adb8a982.js.map": "/Riddle/static/js/main.adb8a982.js.map",
+    "453.2165ce42.chunk.js.map": "/Riddle/static/js/453.2165ce42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aa14fc1.css",
+    "static/js/main.adb8a982.js"
+  ]
+}
